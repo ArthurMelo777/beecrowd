@@ -1,4 +1,5 @@
 # beerowd
 Atividades realizadas no beecrowd
 
-link de acesso: https://www.beecrowd.com.br/judge/pt/recommendations/index/1
+1 - Link de acesso das atividades: https://www.beecrowd.com.br/judge/pt/recommendations/index/1
+2 - Link de acesso do repositório
