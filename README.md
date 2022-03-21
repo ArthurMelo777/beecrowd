@@ -8,3 +8,5 @@ Link de acesso do repositório: https://www.github.com/arthurmelo777/beecrowd
 ## Atividades realizadas
 2374 - Diferença de pressão
 2702 - Frango, bife ou massa?
+1933 - Tri du
+1157 - Divisores
